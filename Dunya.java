@@ -9,9 +9,11 @@ public class Dunya {
 		System.out.println("remotta da duzenleme yapidi");
 		System.out.println("bunu master olarak kabul edin");
 		System.out.println("xxxxxx");
+		System.out.println("yyyyyy");
 		System.out.println("2");
 		System.out.println("ikinci gun calismalari");
 		System.out.println("remotta da duzenleme yapidi");
 		System.out.println("xxxxxxx");
+		System.out.println("yyyyyy");
 	}
 }
