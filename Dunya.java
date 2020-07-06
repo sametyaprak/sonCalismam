@@ -9,5 +9,6 @@ public class Dunya {
 		System.out.println("remotta da duzenleme yapidi");
 		System.out.println("2");
 		System.out.println("ikinci gun calismalari");
+		System.out.println("remotta da duzenleme yapidi");
 	}
 }
