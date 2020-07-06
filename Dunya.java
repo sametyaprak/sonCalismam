@@ -3,6 +3,10 @@ package dunya;
 public class Dunya {
 
 	public static void main(String[] args) {
+
+		System.out.println("bunu master olarak kabul edin");
+		System.out.println("bunu master olarak kabul edin");
+		System.out.println("bunu master olarak kabul edin");
 		
 		System.out.println("1");
 		System.out.println("kkkkkkkk");
@@ -10,6 +14,9 @@ public class Dunya {
 		System.out.println("bunu master olarak kabul edin");
 		System.out.println("xxxxxx");
 		System.out.println("yyyyyy");
+		System.out.println("bunu master olarak kabul edin");
+		System.out.println("bunu master olarak kabul edin");
+		
 		
 	}
 }
